@@ -28,3 +28,12 @@ body {
 #myBtn:hover {
   background-color: #555; /* Add a dark-grey background on hover */
 }
+
+contents {
+  width: auto;
+  border: 1px solid #dedede;
+  padding: 10px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 20px;
+}
