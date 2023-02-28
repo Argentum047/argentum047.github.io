@@ -6,20 +6,20 @@
     "Helvetica Neue", sans-serif;
   --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
 
-  /* Default (light) theme */
+  /* Custom ("light") theme. Black looks nicer. */
   --bg: #212121;
   --accent-bg: #2b2b2b;
   --text: #dcdcdc;
   --text-light: #ababab;
   --border: #898EA4;
-  --accent: #ffb300;
+  --accent: #39cdff;
   --code: #f06292;
   --preformatted: #ccc;
-  --marked: #ffdd33;
+  --marked: #51d4ff;
   --disabled: #111;
 }
 
-/* Dark theme */
+/* Dark theme, basically same as light. */
 @media (prefers-color-scheme: dark) {
   :root {
     color-scheme: dark;
@@ -27,7 +27,7 @@
     --accent-bg: #2b2b2b;
     --text: #dcdcdc;
     --text-light: #ababab;
-    --accent: #ffb300;
+    --accent: #39cdff;
     --code: #f06292;
     --preformatted: #ccc;
     --disabled: #111;
