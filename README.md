@@ -9,3 +9,5 @@ Github Web-Based Editor: https://docs.github.com/en/codespaces/the-githubdev-web
 Replit: https://replit.com/
 
 Some code copied from https://www.w3schools.com/
+
+Please send all security and privacy concerns to my Github.
